@@ -13,8 +13,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Apache License][license-shield]][license-url]
 
-Fundamentals of Artificial Intelligence Course. Lab 03: Machine Learning (DecisionTree GaussianNaiveBayes [Gaussian Naive Bayes và cây quyết định] Exercises)
-
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/nhutnamhcmus/lab-machine-learning?style=flat-square
